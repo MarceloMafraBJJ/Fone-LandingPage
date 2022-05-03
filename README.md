@@ -3,6 +3,7 @@ This project was developed in
 
   - ReactJS
   - Styled-Components
+  - Font-Awesome
 
 ## 💻 Project
 The project consists of creating a clone of a phone sales site.
